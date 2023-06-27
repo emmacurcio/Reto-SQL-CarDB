@@ -7,7 +7,7 @@ para luego responder algunas preguntas utilizando distintos tipos de consultas.
 
 1. Crea una base de datos con el nombre "CarDB"
  
-2. A partir del archivo 'cardata.csv', crea una tabla con los siguientes campos: modelo, precio_compra, precio_venta, kms, combustible, transmision, tipo_venta
+2. A partir del archivo [cardata](https://github.com/Ivan-Cepeda/Reto-SQL-Estats/blob/main/cardata.csv), crea una tabla con los siguientes campos: modelo, precio_compra, precio_venta, kms, combustible, transmision, tipo_venta
 
 3. Completar la tabla con los datos del archivo csv.  
 
@@ -24,3 +24,5 @@ para luego responder algunas preguntas utilizando distintos tipos de consultas.
    	*	Calcule la cantidad de combinaciones de modelos, marcas, tipos de transmisión y combustible por año.
 
 Este reto ha sido creado por los Teaching Asistants Agostina Balverde e Iván Cepeda, correspondientes al grupo 3 de la cohorte Dataft14.
+## Esta imágen puede ayudar un poco 
+![](https://github.com/Ivan-Cepeda/Reto-SQL-Estats/blob/main/1686087205743.jpg)
