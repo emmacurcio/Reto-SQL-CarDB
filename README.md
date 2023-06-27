@@ -26,7 +26,7 @@ para luego responder algunas preguntas utilizando distintos tipos de consultas.
    	*	Calcule la probabilidad de que 2 modelos de vehículos diferente, de la misma marca, usen distintos tipos de combustible.
    	*	Calcule la cantidad de combinaciones de modelos, marca, tipo de transmisión, y combustible por año.
 
-Este reto ha sido creado por los Teaching Asistants Agostina Balberde e Iván Cepeda, correspondientes 
+Este reto ha sido creado por los Teaching Asistants Agostina Balverde e Iván Cepeda, correspondientes 
 al grupo 3 de la cohorte Dataft14. 
 
 
